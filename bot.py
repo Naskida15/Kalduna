@@ -22,7 +22,7 @@ async def on_message(message):
         message_words = message.content.split(' ')
 
         # "Ra" response
-        if len(message_words) < 4:
+        if len(message_words) < 2:
             for word in message_words:
                 if format_word(word) in config.xuina_words:
                     mention = message.author.mention
