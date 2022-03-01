@@ -9,10 +9,8 @@ kalduna_id = 'bot_id'
 owner_calls = ['name_en', 'name_geo']
 
 xuina_words = [
-	'ra', 'ra bijo', 'ra metqi', 'raa', 'raaa', 'raaaa', 'raaaaa', 'raaaaaa', 'raa bijo', 'raaa bijo', 'raaa bijo',
-	'raa metqi', 'raaa metqi', 'raaaa metqi', 'raaaaa metqi', 'რა', 'რა ბიჭო', 'რა მეთქი', 'რა', 'რაა', 'რააა', 'რაააა',
-	'რააააა', 'რაააააა', 'რაა ბიჭო', 'რაა მეთქი', 'რააა ბიჭო', 'რააა მეთქი', 'რაააა ბიჭო', 'რაააა მეთქი', 'რააააა ბიჭო',
-	'რააააა მეთქი',
+	'ra', 'raa', 'raaa', 'raaaa', 'raaaaa', 'raaaaaa', 'რა', 'რა ბიჭო', 'რა მეთქი',
+	'რა', 'რაა', 'რააა', 'რაააა', 'რააააა', 'რაააააა',
 ]
 
 bad_words = [
